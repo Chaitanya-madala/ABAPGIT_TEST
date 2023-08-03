@@ -4,6 +4,8 @@ class Z_ABAPGIT_TEST definition
   create public .
 
 public section.
+*& First Commit from DAC to DS4
+
 protected section.
 private section.
 ENDCLASS.
@@ -11,4 +13,5 @@ ENDCLASS.
 
 
 CLASS Z_ABAPGIT_TEST IMPLEMENTATION.
+
 ENDCLASS.

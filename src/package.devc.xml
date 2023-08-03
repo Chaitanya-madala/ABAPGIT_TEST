@@ -4,6 +4,7 @@
   <asx:values>
    <DEVC>
     <CTEXT>ABAP GIT to BTP ABAP</CTEXT>
+    <TPCLASS>X</TPCLASS>
    </DEVC>
   </asx:values>
  </asx:abap>
